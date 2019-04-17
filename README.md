@@ -1,6 +1,8 @@
 # Person-Search-Paper-List
 The paper list for person search
 
+![这里随便写文字](https://github.com/wangxiao5791509/Person-Search-Paper-List/blob/master/person_search_illustration.png)
+
 
 1. "[Joint detection and identification feature learning for person search.](http://openaccess.thecvf.com/content_cvpr_2017/papers/Xiao_Joint_Detection_and_CVPR_2017_paper.pdf)" Xiao, Tong, Shuang Li, Bochao Wang, Liang Lin, and Xiaogang Wang.  In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition, pp. 3415-3424. 2017. 
 
