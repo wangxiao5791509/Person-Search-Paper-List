@@ -3,7 +3,13 @@ The paper list for person search
 
 ![这里随便写文字](https://github.com/wangxiao5791509/Person-Search-Paper-List/blob/master/person_search_illustration.png)
 
+## Benchmark Datasets: 
+1. CUHK-SYSU dataset: [Source Code and Dataset](https://github.com/ShuangLI59/person_search)
+2.  PRW dataset: [Project-page](http://www.liangzheng.com.cn/Project/project_prw.html)
+3. CSM Dataset (Cast Search in Movies): [Project-page](http://qqhuang.cn/projects/eccv18-person-search/)
 
+
+## Paper List: 
 1. "[Joint detection and identification feature learning for person search.](http://openaccess.thecvf.com/content_cvpr_2017/papers/Xiao_Joint_Detection_and_CVPR_2017_paper.pdf)" Xiao, Tong, Shuang Li, Bochao Wang, Liang Lin, and Xiaogang Wang.  In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition, pp. 3415-3424. 2017. [[Caffe Code](https://github.com/ShuangLI59/person_search)]
 
 2. "[Person search via a mask-guided two-stream cnn model.](http://openaccess.thecvf.com/content_ECCV_2018/papers/Di_Chen_Person_Search_via_ECCV_2018_paper.pdf)" Chen, Di, Shanshan Zhang, Wanli Ouyang, Jian Yang, and Ying Tai.  In Proceedings of the European Conference on Computer Vision (ECCV), pp. 734-750. 2018. 
