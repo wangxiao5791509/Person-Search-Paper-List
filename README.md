@@ -28,5 +28,9 @@ The paper list for person search
 
 9. [Person search in videos with one portrait through visual and temporal links.](http://openaccess.thecvf.com/content_ECCV_2018/papers/Qingqiu_Huang_Person_Search_in_ECCV_2018_paper.pdf) Huang, Qingqiu, Wentao Liu, and Dahua Lin.  In Proceedings of the European Conference on Computer Vision (ECCV), pp. 425-441. 2018. [[Code](https://github.com/hqqasw/person-search-PPCC)] [Project-page](http://qqhuang.cn/projects/eccv18-person-search/) 
 
+10. [Query-guided End-to-End Person Search](https://arxiv.org/pdf/1905.01203.pdf) Bharti Munjal, Sikandar Amin, Federico Tombari, Fabio Galasso, CVPR 2019
+
+
+
 
 
