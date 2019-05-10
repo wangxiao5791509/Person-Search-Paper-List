@@ -1,5 +1,5 @@
 # Person-Search-Paper-List
-The paper list for person search
+Person search is a new research direction, but plays an important role in practical video surveillance. We collect all the person search related papers to better summarize this direction. If you find some papers do not included in this paper list, please let us known (you can create an issue in this page). 
 
 ![这里随便写文字](https://github.com/wangxiao5791509/Person-Search-Paper-List/blob/master/person_search_illustration.png)
 
