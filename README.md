@@ -20,7 +20,7 @@ Person search is a new research direction, but plays an important role in practi
 
 5. "[End-to-End Detection and Re-identification Integrated Net for Person Search.](https://arxiv.org/pdf/1804.00376)" He, Zhenwei, Lei Zhang, and Wei Jia.  arXiv preprint arXiv:1804.00376 (2018).
 
-6. "[Learning Context Graph for Person Search.](https://arxiv.org/abs/1904.01830)" Yan, Yichao, Qiang Zhang, Bingbing Ni, Wendong Zhang, Minghao Xu, and Xiaokang Yang.  arXiv preprint arXiv:1904.01830 (2019). 
+6. "[Learning Context Graph for Person Search.](https://arxiv.org/abs/1904.01830)" Yan, Yichao, Qiang Zhang, Bingbing Ni, Wendong Zhang, Minghao Xu, and Xiaokang Yang.  CVPR2019 Oral. [Code](https://github.com/sjtuzq/person_search_gcn) 
 
 7. "[Fusion-Attention Network for person search with free-form natural language.](https://ac.els-cdn.com/S0167865518308481/1-s2.0-S0167865518308481-main.pdf?_tid=a1a827a8-3a6f-40d1-a627-ef7c2b00a6e2&acdnat=1555507078_14a19843a9eceef215c8db1edfcc3745)" Ji, Zhong, Shengjia Li, and Yanwei Pang.  Pattern Recognition Letters 116 (2018): 205-211. 
 
