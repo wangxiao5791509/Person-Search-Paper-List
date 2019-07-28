@@ -20,17 +20,17 @@ Person search is a new research direction, but plays an important role in practi
 
 5. "[End-to-End Detection and Re-identification Integrated Net for Person Search.](https://arxiv.org/pdf/1804.00376)" He, Zhenwei, Lei Zhang, and Wei Jia.  arXiv preprint arXiv:1804.00376 (2018).
 
-6. "[Learning Context Graph for Person Search.](https://arxiv.org/abs/1904.01830)" Yan, Yichao, Qiang Zhang, Bingbing Ni, Wendong Zhang, Minghao Xu, and Xiaokang Yang.  CVPR2019 Oral. [Code](https://github.com/sjtuzq/person_search_gcn), [Blog](https://www.cnblogs.com/wangxiaocvpr/p/11075513.html) 
+6. "[Learning Context Graph for Person Search.](https://arxiv.org/abs/1904.01830)" Yan, Yichao, Qiang Zhang, Bingbing Ni, Wendong Zhang, Minghao Xu, and Xiaokang Yang.  CVPR-2019 Oral. [Code](https://github.com/sjtuzq/person_search_gcn), [Blog](https://www.cnblogs.com/wangxiaocvpr/p/11075513.html) 
 
 7. "[Fusion-Attention Network for person search with free-form natural language.](https://ac.els-cdn.com/S0167865518308481/1-s2.0-S0167865518308481-main.pdf?_tid=a1a827a8-3a6f-40d1-a627-ef7c2b00a6e2&acdnat=1555507078_14a19843a9eceef215c8db1edfcc3745)" Ji, Zhong, Shengjia Li, and Yanwei Pang.  Pattern Recognition Letters 116 (2018): 205-211. 
 
 8. [Person Search with Natural Language Description](https://arxiv.org/pdf/1702.05729.pdf), CVPR-2017, [[Torch Code](https://github.com/ShuangLI59/Person-Search-with-Natural-Language-Description)] 
 
-9. [Person search in videos with one portrait through visual and temporal links.](http://openaccess.thecvf.com/content_ECCV_2018/papers/Qingqiu_Huang_Person_Search_in_ECCV_2018_paper.pdf) Huang, Qingqiu, Wentao Liu, and Dahua Lin.  In Proceedings of the European Conference on Computer Vision (ECCV), pp. 425-441. 2018. [[Code](https://github.com/hqqasw/person-search-PPCC)] [Project-page](http://qqhuang.cn/projects/eccv18-person-search/) 
+9. [Person search in videos with one portrait through visual and temporal links.](http://openaccess.thecvf.com/content_ECCV_2018/papers/Qingqiu_Huang_Person_Search_in_ECCV_2018_paper.pdf) Huang, Qingqiu, Wentao Liu, and Dahua Lin.  In Proceedings of the European Conference on Computer Vision (ECCV), pp. 425-441. 2018. [[Code](https://github.com/hqqasw/person-search-PPCC)] [[Project](http://qqhuang.cn/projects/eccv18-person-search/)] 
 
 10. [Query-guided End-to-End Person Search](https://arxiv.org/pdf/1905.01203.pdf) Bharti Munjal, Sikandar Amin, Federico Tombari, Fabio Galasso, CVPR 2019 
 
-11. FMT: fusing multi-task convolutional neural network for person search, Sulan Zhai, Shunqiang Liu, Xiao Wang, Jin Tang, Multimedia Tools and Applications, pp 1–12, [Paper](https://link.springer.com/article/10.1007/s11042-019-07939-w). 
+11. FMT: fusing multi-task convolutional neural network for person search, Sulan Zhai, Shunqiang Liu, Xiao Wang, Jin Tang, Multimedia Tools and Applications, pp 1–12, [[Paper](https://link.springer.com/article/10.1007/s11042-019-07939-w)] 
 
 12. 
 
