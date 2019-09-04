@@ -34,6 +34,8 @@ Person search is a new research direction, but plays an important role in practi
 
 12. Segmentation Mask Guided End-to-End Person Search, Dingyuan Zheng, Jimin Xiaoa, Kaizhu Huang, Yao Zhao, [[Paper]](https://arxiv.org/pdf/1908.10179.pdf) 
 
+13. Knowledge Distillation for End-to-End Person Search, Bharti Munjal, Fabio Galasso, Sikandar Amin, BMVC-2019. [[Paper]](https://arxiv.org/pdf/1909.01058.pdf) 
+
 
 
 
