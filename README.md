@@ -36,6 +36,8 @@ Person search is a new research direction, but plays an important role in practi
 
 13. Knowledge Distillation for End-to-End Person Search, Bharti Munjal, Fabio Galasso, Sikandar Amin, BMVC-2019. [[Paper]](https://arxiv.org/pdf/1909.01058.pdf) 
 
+14. Re-ID Driven Localization Refinement for Person Search, Chuchu Han, Jiacheng Ye, Yunshan Zhong, Xin Tan, Chi Zhang, Changxin Gao, Nong Sang, ICCV 2019, [Paper](https://arxiv.org/pdf/1909.08580.pdf)
+
 
 
 
