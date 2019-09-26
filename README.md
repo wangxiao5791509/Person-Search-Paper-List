@@ -38,6 +38,8 @@ Person search is a new research direction, but plays an important role in practi
 
 14. Re-ID Driven Localization Refinement for Person Search, Chuchu Han, Jiacheng Ye, Yunshan Zhong, Xin Tan, Chi Zhang, Changxin Gao, Nong Sang, ICCV 2019, [Paper](https://arxiv.org/pdf/1909.08580.pdf)
 
+15. Person Search by Text Attribute Query As Zero-Shot Learning	Qi Dong, Shaogang Gong, Xiatian Zhu, ICCV 2019, [Paper]
+
 
 
 
