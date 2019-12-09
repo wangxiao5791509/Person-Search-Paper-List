@@ -42,6 +42,10 @@ Person search is a new research direction, but plays an important role in practi
 
 16. Liu, Jiawei, et al. "Deep Adversarial Graph Attention Convolution Network for Text-Based Person Search." Proceedings of the 27th ACM International Conference on Multimedia. ACM, 2019. [Paper](https://dl.acm.org/citation.cfm?id=3350991) 
 
+17. Visual-Textual Association with Hardest and Semi-Hard Negative Pairs Mining for Person Search, Jing Ge, Guangyu Gao, and Zhen Liu, [[Paper]](https://arxiv.org/pdf/1912.03083.pdf) 
+
+18. 
+
 
 
 
