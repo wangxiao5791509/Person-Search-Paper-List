@@ -44,7 +44,8 @@ Person search is a new research direction, but plays an important role in practi
 
 17. Visual-Textual Association with Hardest and Semi-Hard Negative Pairs Mining for Person Search, Jing Ge, Guangyu Gao, and Zhen Liu, [[Paper]](https://arxiv.org/pdf/1912.03083.pdf) 
 
-18. 
+18. Robust Partial Matching for Person Search in the Wild, [[CVPR2020](https://arxiv.org/pdf/2004.09329.pdf)]
+
 
 
 
