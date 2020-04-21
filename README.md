@@ -5,8 +5,9 @@ Person search is a new research direction, but plays an important role in practi
 
 ## Benchmark Datasets: 
 1. CUHK-SYSU dataset: [Source Code and Dataset](https://github.com/ShuangLI59/person_search)
-2.  PRW dataset: [Project-page](http://www.liangzheng.com.cn/Project/project_prw.html)
-3. CSM Dataset (Cast Search in Movies): [Project-page](http://qqhuang.cn/projects/eccv18-person-search/)
+2. PRW dataset: [Project-page](http://www.liangzheng.com.cn/Project/project_prw.html)
+3. CSM Dataset (Cast Search in Movies): [Project-page](http://qqhuang.cn/projects/eccv18-person-search/) 
+4. LSPS: https://arxiv.org/pdf/2004.09329.pdf 
 
 
 ## Paper List: 
