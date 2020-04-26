@@ -11,7 +11,7 @@ Person search is a new research direction, but plays an important role in practi
 
 
 ## Paper List: 
-1. "[Joint detection and identification feature learning for person search.](http://openaccess.thecvf.com/content_cvpr_2017/papers/Xiao_Joint_Detection_and_CVPR_2017_paper.pdf)" Xiao, Tong, Shuang Li, Bochao Wang, Liang Lin, and Xiaogang Wang.  In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition, pp. 3415-3424. 2017. [[Caffe Code](https://github.com/ShuangLI59/person_search)]
+1. "[Joint detection and identification feature learning for person search.](http://openaccess.thecvf.com/content_cvpr_2017/papers/Xiao_Joint_Detection_and_CVPR_2017_paper.pdf)" Xiao, Tong, Shuang Li, Bochao Wang, Liang Lin, and Xiaogang Wang.  In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition, pp. 3415-3424. 2017. [[Caffe Code](https://github.com/ShuangLI59/person_search)] [[PyTorch Code](https://github.com/ChrisLee63/person_search)]
 
 2. "[Person search via a mask-guided two-stream cnn model.](http://openaccess.thecvf.com/content_ECCV_2018/papers/Di_Chen_Person_Search_via_ECCV_2018_paper.pdf)" Chen, Di, Shanshan Zhang, Wanli Ouyang, Jian Yang, and Ying Tai.  In Proceedings of the European Conference on Computer Vision (ECCV), pp. 734-750. 2018. 
 
