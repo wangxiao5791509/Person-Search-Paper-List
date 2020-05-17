@@ -55,7 +55,9 @@ Person search is a new research direction, but plays an important role in practi
 
 22. Dai, J., Zhang, P., Lu, H., & Wang, H. (2020). Dynamic imposter based online instance matching for person search. Pattern Recognition, 100, 107120. [[Paper](https://www.sciencedirect.com/science/article/pii/S0031320319304212)] 
 
-23. 
+23. Pose-Guided Multi-Granularity Attention Network for Text-Based Person Search Ya Jing, Chenyang Si, Junbo Wang, Wei Wang, Liang Wang, Tieniu Tan (AAAI), oral, 2020 [[Paper](https://arxiv.org/abs/1809.08440)] 
+
+24. 
 
 
 
