@@ -45,7 +45,17 @@ Person search is a new research direction, but plays an important role in practi
 
 17. Visual-Textual Association with Hardest and Semi-Hard Negative Pairs Mining for Person Search, Jing Ge, Guangyu Gao, and Zhen Liu, [[Paper]](https://arxiv.org/pdf/1912.03083.pdf) 
 
-18. Robust Partial Matching for Person Search in the Wild, [[CVPR2020](https://arxiv.org/pdf/2004.09329.pdf)]
+18. Robust Partial Matching for Person Search in the Wild, [[CVPR2020](https://arxiv.org/pdf/2004.09329.pdf)] 
+
+19. He, Zhenwei, and Lei Zhang. "End-to-end detection and re-identification integrated net for person search." Asian Conference on Computer Vision. Springer, Cham, 2018. [[Paper](https://arxiv.org/pdf/1804.00376)] 
+
+20. Xiao, J., Xie, Y., Tillo, T., Huang, K., Wei, Y., & Feng, J. (2019). IAN: the individual aggregation network for person search. Pattern Recognition, 87, 332-340. [[Paper](https://arxiv.org/pdf/1705.05552)] 
+
+21. Liu, Hong, et al. "A discriminatively learned feature embedding based on multi-loss fusion for person search." 2018 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). IEEE, 2018. [[Paper](http://150.162.46.34:8080/icassp2018/ICASSP18_USB/pdfs/0001668.pdf)] 
+
+22. Dai, J., Zhang, P., Lu, H., & Wang, H. (2020). Dynamic imposter based online instance matching for person search. Pattern Recognition, 100, 107120. [[Paper](https://www.sciencedirect.com/science/article/pii/S0031320319304212)] 
+
+23. 
 
 
 
