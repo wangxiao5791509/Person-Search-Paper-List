@@ -45,7 +45,7 @@ Person search is a new research direction, but plays an important role in practi
 
 17. Visual-Textual Association with Hardest and Semi-Hard Negative Pairs Mining for Person Search, Jing Ge, Guangyu Gao, and Zhen Liu, [[Paper]](https://arxiv.org/pdf/1912.03083.pdf) 
 
-18. Robust Partial Matching for Person Search in the Wild, [[CVPR2020](https://arxiv.org/pdf/2004.09329.pdf)] 
+18. Zhong, Yingji, Xiaoyu Wang, and Shiliang Zhang. "Robust Partial Matching for Person Search in the Wild." [[CVPR2020](https://arxiv.org/pdf/2004.09329.pdf)] 
 
 19. He, Zhenwei, and Lei Zhang. "End-to-end detection and re-identification integrated net for person search." Asian Conference on Computer Vision. Springer, Cham, 2018. [[Paper](https://arxiv.org/pdf/1804.00376)] 
 
