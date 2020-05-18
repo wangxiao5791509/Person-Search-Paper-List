@@ -33,7 +33,7 @@ Person search is a new research direction, but plays an important role in practi
 
 11. FMT: fusing multi-task convolutional neural network for person search, Sulan Zhai, Shunqiang Liu, Xiao Wang, Jin Tang, Multimedia Tools and Applications, pp 1–12, [[Paper](https://link.springer.com/article/10.1007/s11042-019-07939-w)] 
 
-12. Segmentation Mask Guided End-to-End Person Search, Dingyuan Zheng, Jimin Xiaoa, Kaizhu Huang, Yao Zhao, [[Paper]](https://arxiv.org/pdf/1908.10179.pdf) [[Code](https://github.com/Dingyuan-Zheng/maskPS)] 
+12. Zheng D, Xiao J, Huang K, et al. Segmentation mask guided end-to-end person search[J]. Signal Processing: Image Communication, 2020: 115876. [[Paper]](https://arxiv.org/pdf/1908.10179.pdf) [[Code](https://github.com/Dingyuan-Zheng/maskPS)] 
 
 13. Knowledge Distillation for End-to-End Person Search, Bharti Munjal, Fabio Galasso, Sikandar Amin, BMVC-2019. [[Paper]](https://arxiv.org/pdf/1909.01058.pdf) 
 
