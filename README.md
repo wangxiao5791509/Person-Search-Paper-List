@@ -15,7 +15,7 @@ Person search is a new research direction, but plays an important role in practi
 
 2. "[Person search via a mask-guided two-stream cnn model.](http://openaccess.thecvf.com/content_ECCV_2018/papers/Di_Chen_Person_Search_via_ECCV_2018_paper.pdf)" Chen, Di, Shanshan Zhang, Wanli Ouyang, Jian Yang, and Ying Tai.  In Proceedings of the European Conference on Computer Vision (ECCV), pp. 734-750. 2018. 
 
-3. "[Person search by multi-scale matching.](http://openaccess.thecvf.com/content_ECCV_2018/papers/Xu_Lan_Person_Search_by_ECCV_2018_paper.pdf)" Lan, Xu, Xiatian Zhu, and Shaogang Gong.  In Proceedings of the European Conference on Computer Vision (ECCV), pp. 536-552. 2018. 
+3. Person search by multi-scale matching Lan, Xu, Xiatian Zhu, and Shaogang Gong.  In Proceedings of the European Conference on Computer Vision (ECCV), pp. 536-552. 2018. [[Paper](http://openaccess.thecvf.com/content_ECCV_2018/papers/Xu_Lan_Person_Search_by_ECCV_2018_paper.pdf)] [[Code](https://github.com/mbbremner/PersonSearchCLSA)]
 
 4. "[RCAA: Relational context-aware agents for person search.](http://openaccess.thecvf.com/content_ECCV_2018/papers/Xiaojun_Chang_RCAA_Relational_Context-Aware_ECCV_2018_paper.pdf)" Chang, Xiaojun, Po-Yao Huang, Yi-Dong Shen, Xiaodan Liang, Yi Yang, and Alexander G. Hauptmann.  In Proceedings of the European Conference on Computer Vision (ECCV), pp. 84-100. 2018.
 
