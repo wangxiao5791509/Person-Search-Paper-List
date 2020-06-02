@@ -57,7 +57,19 @@ Person search is a new research direction, but plays an important role in practi
 
 23. Pose-Guided Multi-Granularity Attention Network for Text-Based Person Search Ya Jing, Chenyang Si, Junbo Wang, Wei Wang, Liang Wang, Tieniu Tan (AAAI), oral, 2020 [[Paper](https://arxiv.org/abs/1809.08440)] 
 
-24. Joint Person Objectness and Repulsion for Person Search, Hantao Yao, Changsheng Xu, [[arXiv](https://arxiv.org/pdf/2006.00155.pdf)]
+24. Joint Person Objectness and Repulsion for Person Search, Hantao Yao, Changsheng Xu, [[arXiv](https://arxiv.org/pdf/2006.00155.pdf)] 
+
+25. Instance Guided Proposal Network for Person Search, Wenkai Dong, Zhaoxiang Zhang, Chunfeng Song, Tieniu Tan [[cvpr-2020]()] 
+
+26. Bi-Directional Interaction Network for Person Search, Wenkai Dong, Zhaoxiang Zhang, Chunfeng Song, Tieniu Tan [[cvpr-2020]()] 
+
+27. Cross-Modal Cross-Domain Moment Alignment Network for Person Search,	Ya Jing, Wei Wang, Liang Wang, Tieniu Tan [[cvpr-2020]()] 
+
+28. TCTS: A Task-Consistent Two-Stage Framework for Person Search, Cheng Wang, Bingpeng Ma, Hong Chang, Shiguang Shan, Xilin Chen [[cvpr-2020]()] 
+
+29. Norm-Aware Embedding for Efficient Person Search, Di Chen, Shanshan Zhang, Jian Yang, Bernt Schiele [[cvpr-2020]()]  
+
+30. 
 
 
 
