@@ -57,7 +57,7 @@ Person search is a new research direction, but plays an important role in practi
 
 23. Pose-Guided Multi-Granularity Attention Network for Text-Based Person Search Ya Jing, Chenyang Si, Junbo Wang, Wei Wang, Liang Wang, Tieniu Tan (AAAI), oral, 2020 [[Paper](https://arxiv.org/abs/1809.08440)] 
 
-24. 
+24. Joint Person Objectness and Repulsion for Person Search, Hantao Yao, Changsheng Xu, [[arXiv](https://arxiv.org/pdf/2006.00155.pdf)]
 
 
 
