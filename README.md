@@ -59,15 +59,15 @@ Person search is a new research direction, but plays an important role in practi
 
 24. Joint Person Objectness and Repulsion for Person Search, Hantao Yao, Changsheng Xu, [[arXiv](https://arxiv.org/pdf/2006.00155.pdf)] 
 
-25. Instance Guided Proposal Network for Person Search, Wenkai Dong, Zhaoxiang Zhang, Chunfeng Song, Tieniu Tan [[cvpr-2020]()] 
+25. Instance Guided Proposal Network for Person Search, Wenkai Dong, Zhaoxiang Zhang, Chunfeng Song, Tieniu Tan [[cvpr-2020](http://openaccess.thecvf.com/content_CVPR_2020/html/Dong_Instance_Guided_Proposal_Network_for_Person_Search_CVPR_2020_paper.html)] 
 
-26. Bi-Directional Interaction Network for Person Search, Wenkai Dong, Zhaoxiang Zhang, Chunfeng Song, Tieniu Tan [[cvpr-2020]()] 
+26. Bi-Directional Interaction Network for Person Search, Wenkai Dong, Zhaoxiang Zhang, Chunfeng Song, Tieniu Tan [[cvpr-2020](http://openaccess.thecvf.com/content_CVPR_2020/html/Dong_Bi-Directional_Interaction_Network_for_Person_Search_CVPR_2020_paper.html)] 
 
-27. Cross-Modal Cross-Domain Moment Alignment Network for Person Search,	Ya Jing, Wei Wang, Liang Wang, Tieniu Tan [[cvpr-2020]()] 
+27. Cross-Modal Cross-Domain Moment Alignment Network for Person Search,	Ya Jing, Wei Wang, Liang Wang, Tieniu Tan [[cvpr-2020](http://openaccess.thecvf.com/content_CVPR_2020/html/Jing_Cross-Modal_Cross-Domain_Moment_Alignment_Network_for_Person_Search_CVPR_2020_paper.html)] 
 
-28. TCTS: A Task-Consistent Two-Stage Framework for Person Search, Cheng Wang, Bingpeng Ma, Hong Chang, Shiguang Shan, Xilin Chen [[cvpr-2020]()] 
+28. TCTS: A Task-Consistent Two-Stage Framework for Person Search, Cheng Wang, Bingpeng Ma, Hong Chang, Shiguang Shan, Xilin Chen [[cvpr-2020](http://openaccess.thecvf.com/content_CVPR_2020/html/Wang_TCTS_A_Task-Consistent_Two-Stage_Framework_for_Person_Search_CVPR_2020_paper.html)] 
 
-29. Norm-Aware Embedding for Efficient Person Search, Di Chen, Shanshan Zhang, Jian Yang, Bernt Schiele [[cvpr-2020]()]  
+29. Norm-Aware Embedding for Efficient Person Search, Di Chen, Shanshan Zhang, Jian Yang, Bernt Schiele [[cvpr-2020](http://openaccess.thecvf.com/content_CVPR_2020/papers/Chen_Norm-Aware_Embedding_for_Efficient_Person_Search_CVPR_2020_paper.pdf)] [[Code](https://github.com/DeanChan/NAE4PS)] 
 
 30. 
 
