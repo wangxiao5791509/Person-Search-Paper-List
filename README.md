@@ -9,6 +9,9 @@ Person search is a new research direction, but plays an important role in practi
 3. CSM Dataset (Cast Search in Movies): [Project-page](http://qqhuang.cn/projects/eccv18-person-search/) 
 4. LSPS: https://arxiv.org/pdf/2004.09329.pdf 
 
+## Baseline Code: 
+1. [[deep-person-search]](https://github.com/DeepAlchemist/deep-person-search) by yangwenjie; 
+
 
 ## Paper List: 
 1. "[Joint detection and identification feature learning for person search.](http://openaccess.thecvf.com/content_cvpr_2017/papers/Xiao_Joint_Detection_and_CVPR_2017_paper.pdf)" Xiao, Tong, Shuang Li, Bochao Wang, Liang Lin, and Xiaogang Wang.  In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition, pp. 3415-3424. 2017. [[Caffe Code](https://github.com/ShuangLI59/person_search)] [[PyTorch Code](https://github.com/ChrisLee63/person_search)]
