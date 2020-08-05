@@ -74,7 +74,11 @@ Person search is a new research direction, but plays an important role in practi
 
 30. "Person search: New paradigm of person re-identification: A survey and outlook of recent works." Islam, Khawar.  Image and Vision Computing (2020): 103970. [[Paper](https://pdf.sciencedirectassets.com/271526/AIP/1-s2.0-S0262885620301025/main.pdf?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEO7%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCIG1M8%2BaIHA8Y8utASOxf9dZqrnaT6ItCM2IPy2JhAyKmAiEA2s24Cfd7Qdekf3OnWzc%2F2wtuYXDZaH05%2B7vBT1FjQpYqvQMIh%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARADGgwwNTkwMDM1NDY4NjUiDJW2dFbLN8QACdlgZCqRA15zHZwL477aE%2F0jxH0qt4aL7C%2FseG5QMh%2Be9vMHZlaJDUYal1np7bfxbzkJqmCr6RXaxszNyXH5UdQRhxr20DEKbEGiqoUJyQEXWmCSbq5v1oco%2BJDhpWzR3UaVeA8Bt%2FiuOe3vCQSmztlwNZu8Qe%2FIH5k2Y26u%2B6gt5hPs3Md3AUtje6l1jyFrELlPTxOtiiUlk00492HIEf25ak2xae%2FocYNK0mOX7LtLC4FfUN0WoWaPFDgvXxqfRgDYrs1RmjGO7fZLlhAeqy58O8eqc7UjFWEQ1MpCzzh2fukNb63k%2Fh5%2B1tiGL0B9ykI9heuYXIUkoHZ75gARd54rGnWXXch2y4Aye6Rl0pQ9NcfCIOCPmEv%2FGUOy4EmgquzAVJPPxA0OdNqpI%2B9gkptJXy%2Bxq85w14A7c2vo27D%2BMZLUlpt%2B0ES%2ByBtarcOwKynSPZn1%2B19VribP83H4jYStF%2FEI9PvvlkifdGTv4U6vwNYAxzC9A8uYsEUyE61enUNlM1WU963VI8FJ0HWpnACATLSLuC8QMKCngPgFOusBRdveJIrUKbFjplXnRZLwWBmW8gDVP8pUrVdwBm65vK8MwOSC%2FE8DFpQt2XEs%2FOGDaDcjcqosV1xbmgjjaJ%2BhfnW3fzcs0Wa4JSLoCg2VtxawTKuIteMdiUK77kuLibNEtXZsMx8dYOsK7zDGf2ft1im7qJsvHZX6a3M22eCGZJjY%2FOP%2Bbx7%2B0CSrqadrGNtCVrWpJk8%2BhiXmtJvulHaqtl6Xtk7ZT7eAnE9OqIF4LK1hiUrjzIWOOShX8wKsR4aZx%2B5eDYfdqzD28scvz4GAwZsziufiFq3vtWe9t%2FvFfxStvjBWcBFHgUuwag%3D%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20200704T063800Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=ASIAQ3PHCVTYTEGEQNFF%2F20200704%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=cb51a491522ec8a14c5a17cea5ef266e331ba0d20de761fff1ec6de21a11a479&hash=b01acae99d98aa657357edf930d828990143d7c98d05fa4c8856250b29d17081&host=68042c943591013ac2b2430a89b270f6af2c76d8dfd086a07176afe7c76c2c61&pii=S0262885620301025&tid=spdf-97cff83c-a904-45c5-91a8-661087e841d7&sid=3bfae1a95d024246f32bbf6519db0b7eefc5gxrqa&type=client)] 
 
-31. 
+31. Online Multi-modal Person Search in Videos [eccv-2020] 
+
+32. ViTAA: Visual-Textual Attributes Alignment in Person Search by Natural Language [eccv-2020] 
+
+33. Symbiotic Adversarial Learning for Attribute-Based Person Search [eccv-2020] 
 
 
 
