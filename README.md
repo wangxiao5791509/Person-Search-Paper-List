@@ -80,6 +80,10 @@ Person search is a new research direction, but plays an important role in practi
 
 33. Symbiotic Adversarial Learning for Attribute-Based Person Search [eccv-2020] 
 
+34. A Cross-modality and Progressive Person Search System, Xiaodong Chen, Wu Liu, Xinchen Liu, Yongdong Zhang, Tao Mei, Demo paper of ACM MM 2020
+
+35. 
+
 
 
 
