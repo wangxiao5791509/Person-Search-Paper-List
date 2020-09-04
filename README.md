@@ -82,7 +82,7 @@ Person search is a new research direction, but plays an important role in practi
 
 34. A Cross-modality and Progressive Person Search System, Xiaodong Chen, Wu Liu, Xinchen Liu, Yongdong Zhang, Tao Mei, Demo paper of ACM MM 2020
 
-35. 
+35. Tasks Integrated Networks: Joint Detection and Retrieval for Image Search, Lei Zhang, Zhenwei He, Yi Yang, Liang Wang, Xinbo Gao, T-PAMI 2020 [[Paper](https://arxiv.org/pdf/2009.01438.pdf)]
 
 
 
