@@ -84,6 +84,10 @@ Person search is a new research direction, but plays an important role in practi
 
 35. Tasks Integrated Networks: Joint Detection and Retrieval for Image Search, Lei Zhang, Zhenwei He, Yi Yang, Liang Wang, Xinbo Gao, T-PAMI 2020 [[Paper](https://arxiv.org/pdf/2009.01438.pdf)]
 
+36. Diverse Knowledge Distillation for End-to-End Person Search, AAAI-2021 [[Paper](https://arxiv.org/pdf/2012.11187.pdf)] 
+
+37. 
+
 
 
 
