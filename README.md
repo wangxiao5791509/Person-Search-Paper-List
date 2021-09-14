@@ -86,7 +86,7 @@ Person search is a new research direction, but plays an important role in practi
 
 36. Diverse Knowledge Distillation for End-to-End Person Search, AAAI-2021 [[Paper](https://arxiv.org/pdf/2012.11187.pdf)] 
 
-37. 
+37. Weakly Supervised Person Search with Region Siamese Networks, [[Paper](https://arxiv.org/pdf/2109.06109.pdf)]
 
 
 
